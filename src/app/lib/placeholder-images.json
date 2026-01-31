@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "service-issue",
+      "description": "Customer service representation",
+      "imageUrl": "https://picsum.photos/seed/service/400/300",
+      "imageHint": "customer service"
+    },
+    {
+      "id": "billing-issue",
+      "description": "Billing and invoice concerns",
+      "imageUrl": "https://picsum.photos/seed/billing/400/300",
+      "imageHint": "billing invoice"
+    },
+    {
+      "id": "technical-issue",
+      "description": "Technical or hardware issues",
+      "imageUrl": "https://picsum.photos/seed/tech/400/300",
+      "imageHint": "technical problem"
+    }
+  ]
+}
