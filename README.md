@@ -11,7 +11,7 @@ Submit complaints with clear categorization
 
 Track complaint status in real time
 
-Maintain a complete complaint history
+Maintain  a complete complaint history
 
 Benefit from AI-assisted issue classification
 
