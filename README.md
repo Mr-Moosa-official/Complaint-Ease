@@ -9,7 +9,7 @@ Complaint Ease helps users:
 
 Submit complaints with clear categorization
 
-Track complaint status in real time
+Track complaint status in real  time
 
 Maintain  a complete complaint history
 
